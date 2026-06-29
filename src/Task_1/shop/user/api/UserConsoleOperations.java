@@ -1,7 +1,7 @@
-package shop.user.api;
+package Task_1.shop.user.api;
 
-import shop.user.domain.User;
-import shop.user.repository.UserRepository;
+import Task_1.shop.user.domain.User;
+import Task_1.shop.user.repository.UserRepository;
 
 import java.util.Scanner;
 

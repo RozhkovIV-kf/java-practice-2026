@@ -1,7 +1,7 @@
-package shop.user.infrastructure.persistence;
+package Task_1.shop.user.infrastructure.persistence;
 
-import shop.user.domain.User;
-import shop.user.repository.UserRepository;
+import Task_1.shop.user.domain.User;
+import Task_1.shop.user.repository.UserRepository;
 
 import java.io.*;
 import java.util.UUID;

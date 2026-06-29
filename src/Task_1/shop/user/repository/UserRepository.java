@@ -1,6 +1,6 @@
-package shop.user.repository;
+package Task_1.shop.user.repository;
 
-import shop.user.domain.User;
+import Task_1.shop.user.domain.User;
 
 public interface UserRepository {
 

@@ -1,8 +1,8 @@
-package shop.app;
+package Task_1.shop.app;
 
-import shop.user.api.UserConsoleOperations;
-import shop.user.infrastructure.persistence.UserDatabaseRepository;
-import shop.user.infrastructure.persistence.UserFileRepository;
+import Task_1.shop.user.api.UserConsoleOperations;
+import Task_1.shop.user.infrastructure.persistence.UserDatabaseRepository;
+import Task_1.shop.user.infrastructure.persistence.UserFileRepository;
 
 public class Main {
     public static void main(String[] args) {

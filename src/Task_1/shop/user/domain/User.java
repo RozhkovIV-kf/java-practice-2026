@@ -1,4 +1,4 @@
-package shop.user.domain;
+package Task_1.shop.user.domain;
 
 public class User {
 
